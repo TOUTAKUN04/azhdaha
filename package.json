@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@discordjs/builders": "^0.11.0",
+    "@discordjs/rest": "^0.2.0-canary.0",
+    "discord-api-types": "^0.26.1",
+    "discord.js": "^13.5.0"
+  },
+  "name": "azdaha-multi",
+  "version": "1.0.0",
+  "description": "beta testing phase 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "!t."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n/a.git"
+  },
+  "author": "TOUTAKUN04",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/n/a/issues"
+  },
+  "homepage": "https://github.com/n/a#readme"
+}
